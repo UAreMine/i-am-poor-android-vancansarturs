@@ -14,6 +14,6 @@
         android:layout_width="258dp"
         android:layout_height="126dp"
         android:layout_centerHorizontal="true"
-        android:text="i am poorsss"
+        android:text="i am poooooorsss"
         android:textSize="50sp" />
 </RelativeLayout>
